@@ -12,5 +12,5 @@ Basic knowledge about HTML CSS & JAVASCRIPT 😏
 📝 Visual Studio Code: https://code.visualstudio.com/   
 
 ## Extensions for Visual Studio Code
-💡 Live Server  
-![](LiveServer.png)
+💡 Live Preview  
+![](LivePreview.png)
